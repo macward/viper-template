@@ -1,0 +1,1 @@
+I used the install script created by [Sebastian Boldt](https://github.com/SebastianBoldt).
