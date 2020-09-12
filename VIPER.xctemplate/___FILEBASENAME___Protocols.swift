@@ -10,14 +10,14 @@
 import Foundation
 
 protocol ___VARIABLE_productName:identifier___ViewProtocol: class {
-    var presenter: ___VARIABLE_productName:identifier___PresenterProtocol?  { get set }
+    var presenter: ___VARIABLE_productName:identifier___PresenterProtocol? { get set }
 }
 
 protocol ___VARIABLE_productName:identifier___PresenterProtocol: class {
 }
 
 protocol ___VARIABLE_productName:identifier___InteractorProtocol: class {
-    var presenter: ___VARIABLE_productName:identifier___PresenterProtocol?  { get set }
+    var presenter: ___VARIABLE_productName:identifier___PresenterProtocol? { get set }
 }
 
 protocol ___VARIABLE_productName:identifier___RouterProtocol: class {
